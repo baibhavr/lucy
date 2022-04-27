@@ -1,0 +1,2 @@
+# lucy
+Voice assistant program
