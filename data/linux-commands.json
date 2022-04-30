@@ -1,0 +1,14 @@
+{
+	"action":{
+		"system shutdown":"shutdown +5",
+		"cancel system shutdown":"shutdown -c",
+		"run eclipse":"cd ~/Programs/eclipse/;./eclipse",
+		"run chrome":"google-chrome",
+		"run google chrome":"google-chrome"				
+	},	
+	"response":{
+        "system shutdown":"",
+        "cancel system shutdown":"",
+        "system sound reset":""
+    }
+}
